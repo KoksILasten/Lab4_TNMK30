@@ -1,0 +1,41 @@
+body {
+  background-color: darkgray;
+}
+.topnav {
+  background-color: white;
+  overflow: hidden;
+  margin-bottom: 1%;
+  margin-top: 0%;
+  border-radius: 5px;
+}
+.topnav a {
+  float: left;
+  list-style-type: none;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1vw;
+}
+.topnav a:hover {
+  background-color: black;
+  color: white;
+}
+.topnav a:active {
+  background-color: gray;
+  color: white;
+}
+#headermenu {
+  display: flex;
+  list-style-type: none;
+}
+#nform {
+  justify-content: center;
+  display: flex;
+  flex-wrap: nowrap;
+  text-align: center;
+}
+#nform > div {
+  background-color: #f1f1f1;
+  margin: 1vw;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" \>
+    <title>Labb 4</title>
+    <link href="lab4styles.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="topnav">
+      <ul id="headermenu">
+        <li>
+          <a type="button" onclick="changeColor()">background color</a>
+        </li>
+        <li><a href="qwe.html">Minimoog</a></li>
+        <li><a href="Lek3.html">Counter</a></li>
+	<li><a href="Lab4Main.php">Blog</a></li>
+	<li><a href="Showposts.php">Blog Post</a></li>
+      </ul>
+    </div>
